@@ -1,4 +1,6 @@
 🛒 Retail Analytics Capstone Project
+
+
 📌 Project Overview
 This project demonstrates a complete end-to-end retail data analytics workflow using SQL, Python, and Power BI. The goal is to transform raw retail transaction data into actionable business insights that support strategic decision-making.
 It covers the full analytics lifecycle: data extraction, cleaning, transformation, analysis, and dashboard reporting — showcasing both technical and analytical skills required in real-world retail environments.
